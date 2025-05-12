@@ -20,13 +20,13 @@ This Power BI dashboard provides a comprehensive analysis of **Customer Service 
 [🔗 View the Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiODVmZTk2OTAtZTM1Mi00NzdhLTg3NWUtZjE4ZWYxOGJhZmI4IiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9)  
 
 ## 📸 Dashboard Preview  
-Here are three snapshots of the dashboard:  
+Here are three snapshots of the dashboard:   
 
-![Dashboard Overview]([Overview](https://github.com/user-attachments/assets/23701e52-419a-4fe5-b63c-f7cb6b37982a)
+![Dashboard Overview](![Overview](https://github.com/user-attachments/assets/b2fa652b-002e-4978-92b0-382b9e07844a)
 )  
-![Tooltip 1]([Tooltip1](https://github.com/user-attachments/assets/6fb0c18b-20d4-4a51-ad52-60c3b9a41abb)
+![Tooltip 1](![Tooltip1](https://github.com/user-attachments/assets/00295448-8cf5-4f4b-ac08-ae0f8ea5e75f)
 )  
-![Tooltip 2]([Tooltip2](https://github.com/user-attachments/assets/65f88eb2-78d6-4399-91af-dc17f43728e8)
+![Tooltip 2](![Tooltip2](https://github.com/user-attachments/assets/04b911f7-fb9e-4e6c-b2c4-b8eefe9db06e)
 )  
 
 
