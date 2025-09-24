@@ -104,6 +104,12 @@ FORMAT(SegundosInteiros, "00") & " Second(s)"
 ![Tooltip 1](https://github.com/user-attachments/assets/00295448-8cf5-4f4b-ac08-ae0f8ea5e75f)  
 ![Tooltip 2](https://github.com/user-attachments/assets/04b911f7-fb9e-4e6c-b2c4-b8eefe9db06e)  
 
+## 🧰 How to Use
+
+1. Download the `.pbix` file from this repository.
+2. Open it using **Power BI Desktop**.
+3. The dashboard is ready to explore — no data connection updates required.
+
 
 ## 🛠️ Challenges & Optimizations  
 - **Precise Time Calculations:**  
