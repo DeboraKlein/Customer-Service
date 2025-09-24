@@ -3,6 +3,15 @@
 ## 🚀 Overview  
 This Power BI dashboard provides a comprehensive analysis of **Customer Service performance**, transforming complex data into actionable insights. It includes metrics for **response requests, resolution time, and customer interactions**, helping improve efficiency and service quality.  
 
+## ✅ SLA Compliance
+This dashboard adopts a high-performance standard by setting the SLA threshold at 3 days, in alignment with best practices in customer service. While the legal maximum response time in Brazil is 7 days (as defined by Decree No. 11.034/2022), this dashboard goes further by applying a more rigorous benchmark.
+
+All service requests were resolved within this 3-day window, resulting in a 100% SLA compliance rate. This not only demonstrates operational consistency but also reinforces the team's commitment to delivering fast and reliable support.
+
+### 🟢 SLA Compliance: 100% “All service requests were resolved within 3 days, demonstrating consistent SLA compliance and operational efficiency.”
+
+This metric is displayed prominently in the dashboard to communicate service excellence and build trust with stakeholders.
+
 ## 🔍 Key Features  
 - **Performance Cards:**  
   - Response Requests  
