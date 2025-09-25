@@ -140,9 +140,6 @@ FORMAT(SegundosInteiros, "00") & " Second(s)"
 ## 🎯 Impact  
 This dashboard enhances **data-driven decision-making** by providing detailed analytics on customer service efficiency, response trends, and request resolution timelines.  
 
-## 👏 Credits  
-Special thanks to **Hashtag Treinamentos** for their valuable insights and learning resources!  
-
 ## 📢 Connect  
 Want to explore more Power BI and data analytics projects? Let’s connect and exchange ideas!  
 
