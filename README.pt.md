@@ -134,10 +134,14 @@ FORMAT(SegundosInteiros, "00") & " Segundo(s)"
 ## 🌐 Acesso ao Painel
 
 ### 🔗 Visualizar o Painel Power BI
-[🔗 View the Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiODVmZTk2OTAtZTM1Mi00NzdhLTg3NWUtZjE4ZWYxOGJhZmI4IiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9)  
+[🔗 View the Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiODVmZTk2OTAtZTM1Mi00NzdhLTg3NWUtZjE4ZWYxOGJhZmI4IiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9)
 
 
 ### 📸 Prévia do Painel
+![Dashboard Cover](https://github.com/user-attachments/assets/588d4203-22b4-4e00-93c8-02c09dbfde6f)  
+![Dashboard Overview](https://github.com/user-attachments/assets/e954de3f-8fec-467d-b7a2-0f613cd6ae8d)  
+![Dashboard Operational Efficiency](https://github.com/user-attachments/assets/22cc65c5-b241-4a94-a684-751c886623a3)  
+
 
 ## 🧰 Como Usar
 Baixe o arquivo .pbix deste repositório.
