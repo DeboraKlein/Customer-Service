@@ -122,9 +122,9 @@ FORMAT(SegundosInteiros, "00") & " Second(s)"
 
 ## 📸 Dashboard Preview  
 
-![Dashboard Overview](https://github.com/user-attachments/assets/b2fa652b-002e-4978-92b0-382b9e07844a)  
-![Tooltip 1](https://github.com/user-attachments/assets/00295448-8cf5-4f4b-ac08-ae0f8ea5e75f)  
-![Tooltip 2](https://github.com/user-attachments/assets/04b911f7-fb9e-4e6c-b2c4-b8eefe9db06e)  
+![Dashboard Cover](https://github.com/user-attachments/assets/467a9dc5-f9d8-4bcb-b5c7-7de71bbb54a9)  
+![Dashboard Overview](https://github.com/user-attachments/assets/c3f21721-bedb-44fb-89df-8244ab635493)  
+![Dashboard Operational Efficiency](https://github.com/user-attachments/assets/96eb3d86-3ade-4c78-ba67-823833dcafb3)  
 
 ## 🧰 How to Use
 
