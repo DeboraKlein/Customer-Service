@@ -132,7 +132,10 @@ FORMAT(MinutosInteiros, "00") & " Minuto(s)       " &
 FORMAT(SegundosInteiros, "00") & " Segundo(s)"
 ````
 ## 🌐 Acesso ao Painel
+
 ### 🔗 Visualizar o Painel Power BI
+[🔗 View the Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiODVmZTk2OTAtZTM1Mi00NzdhLTg3NWUtZjE4ZWYxOGJhZmI4IiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9)  
+
 
 ### 📸 Prévia do Painel
 
