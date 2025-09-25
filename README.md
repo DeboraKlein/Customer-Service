@@ -28,6 +28,12 @@ Custom DAX formulas were crafted to enhance time intelligence and performance tr
 
 ### 📊 Request & Response Metrics
 
+Average Time = 
+AVERAGEX(
+    fOcorrencias,
+    fOcorrencias[Resolution Date] - fOcorrencias[Request Date]
+)
+
 ### Total Open Requests
 ````
 Open requests = COUNT(fOcorrencias[Request Date])
