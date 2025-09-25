@@ -161,8 +161,10 @@ Padrões consistentes de abertura de solicitações por dia útil e dia do mês,
 Eventos com alta taxa de reabertura destacados para revisão de processos.
 
 🎯 Impacto
+
 Este painel fortalece a tomada de decisão orientada por dados, revelando tendências na eficiência do atendimento, comportamento de resposta e prazos de resolução. 
 Ele apoia a gestão proativa e a melhoria contínua.
 
 📢 Conecte-se
+
 Quer explorar mais projetos em Power BI e análise de dados? Vamos trocar ideias!
