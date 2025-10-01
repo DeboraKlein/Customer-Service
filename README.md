@@ -1,23 +1,23 @@
-# 📊 Customer Service Dashboard  
+# Customer Service Dashboard  
 
-## 🚀 Overview  
+## Overview  
 This Power BI dashboard provides a comprehensive analysis of **Customer Service performance**, transforming complex data into actionable insights. It includes metrics for **response requests, resolution time, and customer interactions**, helping improve efficiency and service quality.  
 
-## 🔐 Data Disclaimer
+## Data Disclaimer
 
 All data used in this dashboard is entirely fictitious and was created for training and demonstration purposes only. No real customer, financial, or operational information is represented.
 
 
-## ✅ SLA Compliance
+## SLA Compliance
 This dashboard adopts a high-performance standard by setting the SLA threshold at 3 days, in alignment with best practices in customer service. While the legal maximum response time in Brazil is 7 days (as defined by Decree No. 11.034/2022), this dashboard goes further by applying a more rigorous benchmark.
 
 All service requests were resolved within this 3-day window, resulting in a 100% SLA compliance rate. This not only demonstrates operational consistency but also reinforces the team's commitment to delivering fast and reliable support.
 
-### 🟢 SLA Compliance: 100% “All service requests were resolved within 3 days, demonstrating consistent SLA compliance and operational efficiency.”
+### SLA Compliance: 100% “All service requests were resolved within 3 days, demonstrating consistent SLA compliance and operational efficiency.”
 
 This metric is displayed prominently in the dashboard to communicate service excellence and build trust with stakeholders.
 
-## 🔍 Key Features  
+## Key Features  
 - **Performance Cards:**  
   - Response Requests  
   - Average Daily Responses & Requests  
@@ -28,10 +28,10 @@ This metric is displayed prominently in the dashboard to communicate service exc
   - Area Chart: **Response Time Trends** (with a tooltip matrix view)  
   - Bar Chart: **Top Requests by Users**
 
- ## 📐 DAX Measures
+ ## DAX Measures
 Custom DAX formulas were crafted to enhance time intelligence and performance tracking:
 
-### 📊 Request & Response Metrics
+### Request & Response Metrics
 
 ### Average Time
 ````
@@ -52,7 +52,7 @@ Response Request = CALCULATE(
     USERELATIONSHIP(dcalendar[Date], fOcorrencias[Resolution Date])
 
 ````
-### ⏱️ Time Intelligence
+### Time Intelligence
 
 ### Average Daily Requests
 ````
@@ -116,35 +116,35 @@ FORMAT(HorasInteiras, "00") & " Hour(s)       " &
 FORMAT(MinutosInteiros, "00") & " Minute(s)       " &
 FORMAT(SegundosInteiros, "00") & " Second(s)"
 ````
-## 🌐 Dashboard Access  
+## Dashboard Access  
 [🔗 View the Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiODVmZTk2OTAtZTM1Mi00NzdhLTg3NWUtZjE4ZWYxOGJhZmI4IiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9)  
 
 
-## 📸 Dashboard Preview  
+## Dashboard Preview  
 
 ![Dashboard Cover](https://github.com/user-attachments/assets/467a9dc5-f9d8-4bcb-b5c7-7de71bbb54a9)  
 ![Dashboard Overview](https://github.com/user-attachments/assets/c3f21721-bedb-44fb-89df-8244ab635493)  
 ![Dashboard Operational Efficiency](https://github.com/user-attachments/assets/96eb3d86-3ade-4c78-ba67-823833dcafb3)  
 
-## 🧰 How to Use
+## How to Use
 
 1. Download the `.pbix` file from this repository.
 2. Open it using **Power BI Desktop**.
 3. The dashboard is ready to explore — no data connection updates required.
 
 
-## 🛠️ Challenges & Optimizations  
+## Challenges & Optimizations  
 - **Precise Time Calculations:**  
   - Developed a custom DAX formula to convert resolution time into **days, hours, minutes, and seconds** for clear tracking.  
 - **Dynamic Tooltips:**  
   - Integrated additional **drill-through visuals** for deeper insights into request statuses and response trends.  
 
-## 🎯 Impact  
+## Impact  
 This dashboard enhances **data-driven decision-making** by providing detailed analytics on customer service efficiency, response trends, and request resolution timelines.  
 
-## 📢 Connect  
+## Connect  
 Want to explore more Power BI and data analytics projects? Let’s connect and exchange ideas!  
 
 ---
 
-Would you like any tweaks to highlight specific technical aspects or goals? 😊
+Would you like any tweaks to highlight specific technical aspects or goals? 
